@@ -1,5 +1,5 @@
 # aws-s3-clone-bucket-lambda
-A small lambda function to clone a sourcebucket to a targetbucket
+A small lambda function (in node.js) that clones a sourcebucket to a targetbucket
 
 ## Info ##
 This Lambda will copy an entire SOURCE BUCKET to a TARGET BUCKET.
